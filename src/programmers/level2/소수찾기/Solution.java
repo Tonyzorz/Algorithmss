@@ -8,32 +8,37 @@ import java.util.HashSet;
 public class Solution {
 
     HashSet<Integer> set = new HashSet<>();
-    
+    boolean[] isVisited;
     public int solution(String numbers) {
-        //bruteForce("", numbers, 0);
-        for (int i = 0; i < numbers.length(); i++) {
-            bruteForce(String.valueOf(numbers.charAt(i)), numbers, 1, i); 
-        }
+        isVisited = new boolean[numbers.length()];
         
+        for (int i = 0; i < numbers.length(); i++) {
+            isVisited[i] = true;
+            bruteForce(String.valueOf(numbers.charAt(i)), numbers, 1);
+            isVisited[i] = false;
+        }
+
+//        System.out.println(set.toString());
         return set.size();
     }
     
-    public void bruteForce(String currentNumber, String numbers, int index, int skip) {
-
-        System.out.println(currentNumber + " " + index + "                " + skip);
+    public void bruteForce(String currentNumber, String numbers, int index) {
+        
         if (index > numbers.length()) {
             return;
         }
+        
         if (isPrime(currentNumber)) {
-            
-            set.add(Integer.parseInt(currentNumber));
+            set.add(Integer.valueOf(currentNumber));
         }
         
-        for (int i = index; i < numbers.length(); i++) {
-            if (i == skip) {
-                continue;
+        for (int i = 0; i < numbers.length(); i++) {
+            
+            if (!isVisited[i]) {
+                isVisited[i] = true;
+                bruteForce(currentNumber + numbers.charAt(i), numbers, index + 1);
+                isVisited[i] = false;
             }
-            bruteForce(currentNumber + numbers.charAt(i), numbers, index + 1, -1);
         }
     }
     
@@ -49,7 +54,7 @@ public class Solution {
             return false;
         }
         
-        for (int i = 2; i < number/2; i++) {
+        for (int i = 2; i < number; i++) {
             if (number % i == 0) {
                 return false;
             }
