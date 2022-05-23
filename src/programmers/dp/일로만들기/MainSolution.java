@@ -26,6 +26,7 @@ public class MainSolution {
             }
             
         }
+        
         System.out.println(Arrays.toString(dp));
         System.out.println(dp[26]);
     }
