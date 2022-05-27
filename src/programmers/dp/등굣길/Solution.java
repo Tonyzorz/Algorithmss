@@ -1,4 +1,4 @@
-package programmers.templates;
+package programmers.dp.등굣길;
 
 import org.junit.Assert;
 import org.junit.Test;
