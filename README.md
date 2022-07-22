@@ -15,7 +15,7 @@
 [Level 1]
 
  - 신고 결과 받기 - [보기](src/programmers/level1/신고결과받기)
- - 로또의 최고 순위와 최저 순위 - [보기](src/programmers/level1/로또의최고순위와처저순위)
+ - 로또의 최고 순위와 최저 순위 - [보기](src/programmers/level1/로또의최고순위와최저순위)
  - 신규 아이디 추천 - [보기](src/programmers/level1/신규아이디추천) 
  - 숫자 문자열과 영단어 - [보기](src/programmers/level1/숫자문자열과영단어) 
  - 키패드 누르기 - [보기](src/programmers/level1/키패드누르기) 
