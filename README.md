@@ -4,15 +4,16 @@
 ![](/src/asssets/images/study.jpg)
 
 ## 목차 
-- 프로그래머스 
-  - Level 1 
-  - Level 2
-  - Level 3
-- 백준
-- 기타 
+1. 프로그래머스 
+  - [Level 1](#프로그래머스-[Level 1]) 
+  - [Level 2](#프로그래머스-[Level 2])
+  - [Level 3](#프로그래머스-[Level 3])
+2. 백준
+3. 기타 
 
-### 프로그래머스 
-[Level 1]
+### 프로그래머스
+
+프로그래머스 [Level 1]
 
  - 신고 결과 받기 - [보기](src/programmers/level1/신고결과받기)
  - 로또의 최고 순위와 최저 순위 - [보기](src/programmers/level1/로또의최고순위와최저순위)
@@ -67,8 +68,9 @@
  - 행렬의 덧셈 - [보기](src/programmers/level1/행렬의덧셈) 
  - x만큼 간격이 있는 n개의 숫자 - [보기](src/programmers/level1/x만큼간격이있는n개의숫자) 
  - 직사각형 별찍기 - [보기](src/programmers/level1/직사각형별찍기) 
- 
-[Level 2]
+
+
+프로그래머스 [Level 2]
  - 문자열 압축 - [보기](src/programmers/level2/문자열압축)
  - 오픈채팅방 - [보기](src/programmers/level2/오픈채팅방)
  - 카카오프렌즈 컬러링북 - [보기](src/programmers/level2/카카오프렌즈컬러링북) 
@@ -144,9 +146,9 @@
  - JadenCase 문자열 만들기 
  - N-Queen
  - N개의 최소공배수 
- - 양궁대회 
- 
- [Level 3]
+ - 양궁대회
+
+프로그래머스 [Level 3]
  - [1차] 추석 트래픽
  - N으로 표현
  - 입국심사 
