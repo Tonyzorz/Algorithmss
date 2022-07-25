@@ -74,7 +74,7 @@
  - 문자열 압축 - [보기](src/programmers/level2/문자열압축)
  - 오픈채팅방 - [보기](src/programmers/level2/오픈채팅방)
  - 카카오프렌즈 컬러링북 - [보기](src/programmers/level2/카카오프렌즈컬러링북) 
- - 단체사진 찍기 
+ - 단체사진 찍기 - [보기](src/programmers/level2/단체사진찍기) 
  - 멀쩡한 사각형 
  - 124 나라의 숫자 - [보기](src/programmers/level2/_124나라의숫자) 
  - 기능개발 - [보기](src/programmers/level2/기능개발) 
