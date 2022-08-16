@@ -1,18 +1,29 @@
 # Algorithm
 
+---
 ** 알고리즘 문제 풀이 **
 ![](/src/asssets/images/study.jpg)
 
 ## 목차 
+
+---
+0. 백준
 1. 프로그래머스 
   - [Level 1](#프로그래머스-[Level 1]) 
   - [Level 2](#프로그래머스-[Level 2])
   - [Level 3](#프로그래머스-[Level 3])
-2. 백준
 3. 기타 
 
+### 백준
+
+---
+https://www.acmicpc.net/step
+1. 입출력과 사칙연산
+    - [Hello World](https://www.acmicpc.net/problem/2557) - [보기](src/baekjoon/단계별/입출력과사칙연산)
+    - 
 ### 프로그래머스
 
+---
 프로그래머스 [Level 1]
 
  - 신고 결과 받기 - [보기](src/programmers/level1/신고결과받기)
@@ -207,6 +218,5 @@
  - 파괴되지 않은 건물 
  - 사라지는 발판 
 
-### 백준 
 
 ### 기타 
