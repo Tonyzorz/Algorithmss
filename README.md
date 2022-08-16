@@ -19,8 +19,10 @@
 ---
 https://www.acmicpc.net/step
 1. 입출력과 사칙연산
-    - [Hello World](https://www.acmicpc.net/problem/2557) - [보기](src/baekjoon/단계별/입출력과사칙연산)
-    - 
+    - [Hello World](https://www.acmicpc.net/problem/2557) - [보기](src/baekjoon/단계별/입출력과사칙연산/helloworld)
+    - [We love kriii](https://www.acmicpc.net/problem/10718) - [보기](src/baekjoon/단계별/입출력과사칙연산/we_love_kriii)
+    - [A+B](https://www.acmicpc.net/problem/1000) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Plus_B)
+    - [A-B](https://www.acmicpc.net/problem/1001) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Minus_B)
 ### 프로그래머스
 
 ---
