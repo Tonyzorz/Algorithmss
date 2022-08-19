@@ -18,11 +18,44 @@
 
 ---
 https://www.acmicpc.net/step
-1. 입출력과 사칙연산
+1. [입출력과 사칙연산](src/baekjoon/단계별/입출력과사칙연산)
     - [Hello World](https://www.acmicpc.net/problem/2557) - [보기](src/baekjoon/단계별/입출력과사칙연산/helloworld)
     - [We love kriii](https://www.acmicpc.net/problem/10718) - [보기](src/baekjoon/단계별/입출력과사칙연산/we_love_kriii)
     - [A+B](https://www.acmicpc.net/problem/1000) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Plus_B)
     - [A-B](https://www.acmicpc.net/problem/1001) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Minus_B)
+    - [AxB](https://www.acmicpc.net/problem/10998) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Times_B)
+    - [A/B](https://www.acmicpc.net/problem/1008) - [보기](src/baekjoon/단계별/입출력과사칙연산/A_Divide_B)
+    - [사칙연산](https://www.acmicpc.net/problem/10869) - [보기](src/baekjoon/단계별/입출력과사칙연산/사칙연산)
+    - [??!](https://www.acmicpc.net/problem/10926) - [보기](src/baekjoon/단계별/입출력과사칙연산/question_question_exclamation)
+    - [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) - [보기](src/baekjoon/단계별/입출력과사칙연산/taiwanAge)
+    - [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) - [보기](src/baekjoon/단계별/입출력과사칙연산/킹퀸룩비숍나이트폰)
+    - [나머지](https://www.acmicpc.net/problem/10430) - [보기](src/baekjoon/단계별/입출력과사칙연산/나머지)
+    - [곱셈](https://www.acmicpc.net/problem/2588) - [보기](src/baekjoon/단계별/입출력과사칙연산/곱셈)
+    - [고양이](https://www.acmicpc.net/problem/10171) - [보기](src/baekjoon/단계별/입출력과사칙연산/고양이)
+    - [개](https://www.acmicpc.net/problem/10172) - [보기](src/baekjoon/단계별/입출력과사칙연산/개)
+    - [새싹](https://www.acmicpc.net/problem/25083) - [보기](src/baekjoon/단계별/입출력과사칙연산/새싹)
+
+2. [조건문](src/baekjoon/단계별/조건문)
+    - [두 수 비교하기](https://www.acmicpc.net/problem/1330) - [보기](src/baekjoon/단계별/조건문/두수비교하기)
+    - [시험 성적](https://www.acmicpc.net/problem/9498) - [보기](src/baekjoon/단계별/조건문/시험성적)
+    - [윤년](https://www.acmicpc.net/problem/2753) - [보기](src/baekjoon/단계별/조건문/윤년)
+    - [사분면 고르기](https://www.acmicpc.net/problem/14681) - [보기](src/baekjoon/단계별/조건문/사분면고르기)
+    - [알람 시계](https://www.acmicpc.net/problem/2884) - [보기](src/baekjoon/단계별/조건문/알람시계)
+    - [오븐 시계](https://www.acmicpc.net/problem/2525) - [보기](src/baekjoon/단계별/조건문/오븐시계)
+    - [주사위 세개](https://www.acmicpc.net/problem/2480) - [보기](src/baekjoon/단계별/조건문/주사위세개)
+
+3. [반복문](src/baekjoon/단계별/반복문)
+    - [구구단](https://www.acmicpc.net/problem/2739) - [보기](src/baekjoon/단계별/반복문/구구단) 
+    - [A+B - 3](https://www.acmicpc.net/problem/10950) - [보기](src/baekjoon/단계별/반복문/A_Plus_B_minus_3) 
+    - [합](https://www.acmicpc.net/problem/8393) - [보기](src/baekjoon/단계별/반복문/합) 
+    - [영수증](https://www.acmicpc.net/problem/25304) - [보기](src/baekjoon/단계별/반복문/영수증) 
+    - [빠른 A+B](https://www.acmicpc.net/problem/15552) - [보기](src/baekjoon/단계별/반복문/빠른A_plus_B) 
+    - [A+B - 7](https://www.acmicpc.net/problem/11021) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_7) 
+    - [A+B - 8](https://www.acmicpc.net/problem/11022) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_8) 
+    - [별 찍기 - 1](https://www.acmicpc.net/problem/2438) - [보기](src/baekjoon/단계별/반복문/별찍기_1) 
+    - [별 찍기 - 2](https://www.acmicpc.net/problem/2439) - [보기](src/baekjoon/단계별/반복문/별찍기_2) 
+    - [X보다 작은 수](https://www.acmicpc.net/problem/10871) - [보기](src/baekjoon/단계별/반복문/X보다작은수) 
+    - 
 ### 프로그래머스
 
 ---
