@@ -55,6 +55,9 @@ https://www.acmicpc.net/step
     - [별 찍기 - 1](https://www.acmicpc.net/problem/2438) - [보기](src/baekjoon/단계별/반복문/별찍기_1) 
     - [별 찍기 - 2](https://www.acmicpc.net/problem/2439) - [보기](src/baekjoon/단계별/반복문/별찍기_2) 
     - [X보다 작은 수](https://www.acmicpc.net/problem/10871) - [보기](src/baekjoon/단계별/반복문/X보다작은수) 
+    - [A+B - 5](https://www.acmicpc.net/problem/10952) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_5) 
+    - [A+B - 4](https://www.acmicpc.net/problem/10951) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_4) 
+    - [더하기 사이클](https://www.acmicpc.net/problem/1110) - [보기](src/baekjoon/단계별/반복문/더하기사이클) 
     - 
 ### 프로그래머스
 
