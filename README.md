@@ -58,7 +58,32 @@ https://www.acmicpc.net/step
     - [A+B - 5](https://www.acmicpc.net/problem/10952) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_5) 
     - [A+B - 4](https://www.acmicpc.net/problem/10951) - [보기](src/baekjoon/단계별/반복문/A_plus_B_minus_4) 
     - [더하기 사이클](https://www.acmicpc.net/problem/1110) - [보기](src/baekjoon/단계별/반복문/더하기사이클) 
-    - 
+
+4. [1차원 배열](src/baekjoon/단계별/_1차원배열)
+    - [최소, 최대](https://www.acmicpc.net/problem/10818) - [보기](src/baekjoon/단계별/_1차원배열/최소최대)
+    - [최대값](https://www.acmicpc.net/problem/2562) - [보기](src/baekjoon/단계별/_1차원배열/최대값)
+    - [나머지](https://www.acmicpc.net/problem/3052) - [보기](src/baekjoon/단계별/_1차원배열/나머지)
+    - [평균](https://www.acmicpc.net/problem/1546) - [보기](src/baekjoon/단계별/_1차원배열/평균)
+    - [OX퀴즈](https://www.acmicpc.net/problem/8958) - [보기](src/baekjoon/단계별/_1차원배열/OX퀴즈)
+    - [평균은 넘겠지](https://www.acmicpc.net/problem/4344) - [보기](src/baekjoon/단계별/_1차원배열/평균은넘겠지)
+
+5. [함수](src/baekjoon/단계별/함수)
+    - [정수 N개의 합](https://www.acmicpc.net/problem/15596) - [보기](src/baekjoon/단계별/함수/정수N개의합)
+    - [셀프 넘버](https://www.acmicpc.net/problem/4673) - [보기](src/baekjoon/단계별/함수/셀프넘버)
+    - [한수](https://www.acmicpc.net/problem/1065) - [보기](src/baekjoon/단계별/함수/한수)
+
+5. [함수](src/baekjoon/단계별/문자열)
+   - [아스키코드](https://www.acmicpc.net/problem/11654) - [보기](src/baekjoon/단계별/문자열/아스키코드)
+   - [숫자의 합](https://www.acmicpc.net/problem/11720) - [보기](src/baekjoon/단계별/문자열/숫자의합)
+   - [알파벳 찾기](https://www.acmicpc.net/problem/10809) - [보기](src/baekjoon/단계별/문자열/알파벳찾기)
+   - [문자열 반복](https://www.acmicpc.net/problem/2675) - [보기](src/baekjoon/단계별/문자열/문자열반복)
+   - [단어 공부](https://www.acmicpc.net/problem/1157) - [보기](src/baekjoon/단계별/문자열/단어공부)
+   - [단어의 개수](https://www.acmicpc.net/problem/1152) - [보기](src/baekjoon/단계별/문자열/단어의개수)
+   - [상수](https://www.acmicpc.net/problem/2908) - [보기](src/baekjoon/단계별/문자열/상수)
+   - [다이얼](https://www.acmicpc.net/problem/5622) - [보기](src/baekjoon/단계별/문자열/다이얼)
+   - [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) - [보기](src/baekjoon/단계별/문자열/크로아티아알파벳)
+   - [그룹 단어 체커](https://www.acmicpc.net/problem/1316) - [보기](src/baekjoon/단계별/문자열/그룹단어체커)
+   
 ### 프로그래머스
 
 ---
