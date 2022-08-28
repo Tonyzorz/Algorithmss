@@ -72,7 +72,7 @@ https://www.acmicpc.net/step
     - [셀프 넘버](https://www.acmicpc.net/problem/4673) - [보기](src/baekjoon/단계별/함수/셀프넘버)
     - [한수](https://www.acmicpc.net/problem/1065) - [보기](src/baekjoon/단계별/함수/한수)
 
-5. [함수](src/baekjoon/단계별/문자열)
+6. [문자열](src/baekjoon/단계별/문자열)
    - [아스키코드](https://www.acmicpc.net/problem/11654) - [보기](src/baekjoon/단계별/문자열/아스키코드)
    - [숫자의 합](https://www.acmicpc.net/problem/11720) - [보기](src/baekjoon/단계별/문자열/숫자의합)
    - [알파벳 찾기](https://www.acmicpc.net/problem/10809) - [보기](src/baekjoon/단계별/문자열/알파벳찾기)
@@ -83,7 +83,14 @@ https://www.acmicpc.net/step
    - [다이얼](https://www.acmicpc.net/problem/5622) - [보기](src/baekjoon/단계별/문자열/다이얼)
    - [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) - [보기](src/baekjoon/단계별/문자열/크로아티아알파벳)
    - [그룹 단어 체커](https://www.acmicpc.net/problem/1316) - [보기](src/baekjoon/단계별/문자열/그룹단어체커)
-   
+
+7. [기본 수학 1](src/baekjoon/단계별/기본수학1)
+   - [손익분기점](https://www.acmicpc.net/problem/1712) - [보기](src/baekjoon/단계별/문자열/손익분기점)
+   - [벌집](https://www.acmicpc.net/problem/2292) - [보기](src/baekjoon/단계별/문자열/벌집)
+   - [분수찾기](https://www.acmicpc.net/problem/1193) - [보기](src/baekjoon/단계별/문자열/분수찾기)
+   - [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) - [보기](src/baekjoon/단계별/문자열/달팽이는올라가고싶다)
+
+
 ### 프로그래머스
 
 ---
