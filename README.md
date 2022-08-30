@@ -94,6 +94,13 @@ https://www.acmicpc.net/step
    - [설탕 배달](https://www.acmicpc.net/problem/2839) - [보기](src/baekjoon/단계별/기본수학1/설탕배달)
    - [큰 수 A+B](https://www.acmicpc.net/problem/10757) - [보기](src/baekjoon/단계별/기본수학1/큰수A_plus_B)
 
+8. [기본 수학 2](src/baekjoon/단계별/기본수학2)
+   - [소수 찾기](https://www.acmicpc.net/problem/1978) - [보기](src/baekjoon/단계별/기본수학2/소수찾기)
+   - [소수](https://www.acmicpc.net/problem/2581) - [보기](src/baekjoon/단계별/기본수학2/소수)
+   - [소인수분해](https://www.acmicpc.net/problem/11653) - [보기](src/baekjoon/단계별/기본수학2/소인수분해)
+   - [소수 구하기](https://www.acmicpc.net/problem/1929) - [보기](src/baekjoon/단계별/기본수학2/소수구하기)
+   - [베르트랑 공준](https://www.acmicpc.net/problem/4948) - [보기](src/baekjoon/단계별/기본수학2/베르트랑공준)
+   - [골드바흐의 추측](https://www.acmicpc.net/problem/9020) - [보기](src/baekjoon/단계별/기본수학2/골드바흐의추측)
 
 ### 프로그래머스
 
