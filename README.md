@@ -102,6 +102,11 @@ https://www.acmicpc.net/step
    - [베르트랑 공준](https://www.acmicpc.net/problem/4948) - [보기](src/baekjoon/단계별/기본수학2/베르트랑공준)
    - [골드바흐의 추측](https://www.acmicpc.net/problem/9020) - [보기](src/baekjoon/단계별/기본수학2/골드바흐의추측)
 
+9. [재귀](src/baekjoon/단계별/재귀)
+   - [팩토리얼](https://www.acmicpc.net/problem/10872) - [보기](src/baekjoon/단계별/재귀/팩토리얼)
+   - [피보나치 수 5](https://www.acmicpc.net/problem/10870) - [보기](src/baekjoon/단계별/재귀/피보나치수5)
+   - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) - [보기](src/baekjoon/단계별/재귀/재귀함수가뭔가요)
+
 ### 프로그래머스
 
 ---
