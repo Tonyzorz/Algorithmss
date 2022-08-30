@@ -1,6 +1,7 @@
-package baekjoon.단계별.기본수학1.달팽이는올라가고싶다;
+package baekjoon.단계별.기본수학1.큰수A_plus_B;
 
 import java.io.*;
+import java.math.BigInteger;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -10,19 +11,11 @@ public class Main {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         StringTokenizer st = new StringTokenizer(br.readLine());
-
-        long A = Long.parseLong(st.nextToken());
-        long B = Long.parseLong(st.nextToken());
-        long V = Long.parseLong(st.nextToken());
-
-        double estimated = (double) (V - B) / (A - B);
-        long days = (long) estimated;
+        BigInteger first = new BigInteger(st.nextToken());
+        BigInteger second = new BigInteger(st.nextToken());;
+        BigInteger added = first.add(second);
         
-        if (estimated % 1 != 0) {
-            days++;
-        } 
-
-        bw.write(days + "");
+        bw.write(added + "");
         br.close();
         bw.close();
     }

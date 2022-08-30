@@ -85,10 +85,14 @@ https://www.acmicpc.net/step
    - [그룹 단어 체커](https://www.acmicpc.net/problem/1316) - [보기](src/baekjoon/단계별/문자열/그룹단어체커)
 
 7. [기본 수학 1](src/baekjoon/단계별/기본수학1)
-   - [손익분기점](https://www.acmicpc.net/problem/1712) - [보기](src/baekjoon/단계별/문자열/손익분기점)
-   - [벌집](https://www.acmicpc.net/problem/2292) - [보기](src/baekjoon/단계별/문자열/벌집)
-   - [분수찾기](https://www.acmicpc.net/problem/1193) - [보기](src/baekjoon/단계별/문자열/분수찾기)
-   - [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) - [보기](src/baekjoon/단계별/문자열/달팽이는올라가고싶다)
+   - [손익분기점](https://www.acmicpc.net/problem/1712) - [보기](src/baekjoon/단계별/기본수학1/손익분기점)
+   - [벌집](https://www.acmicpc.net/problem/2292) - [보기](src/baekjoon/단계별/기본수학1/벌집)
+   - [분수찾기](https://www.acmicpc.net/problem/1193) - [보기](src/baekjoon/단계별/기본수학1/분수찾기)
+   - [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) - [보기](src/baekjoon/단계별/기본수학1/달팽이는올라가고싶다)
+   - [ACM 호텔](https://www.acmicpc.net/problem/10250) - [보기](src/baekjoon/단계별/기본수학1/ACM호텔)
+   - [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) - [보기](src/baekjoon/단계별/기본수학1/부녀회장이될테야)
+   - [설탕 배달](https://www.acmicpc.net/problem/2839) - [보기](src/baekjoon/단계별/기본수학1/설탕배달)
+   - [큰 수 A+B](https://www.acmicpc.net/problem/10757) - [보기](src/baekjoon/단계별/기본수학1/큰수A_plus_B)
 
 
 ### 프로그래머스
