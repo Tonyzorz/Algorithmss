@@ -106,6 +106,17 @@ https://www.acmicpc.net/step
    - [팩토리얼](https://www.acmicpc.net/problem/10872) - [보기](src/baekjoon/단계별/재귀/팩토리얼)
    - [피보나치 수 5](https://www.acmicpc.net/problem/10870) - [보기](src/baekjoon/단계별/재귀/피보나치수5)
    - [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) - [보기](src/baekjoon/단계별/재귀/재귀함수가뭔가요)
+   - [별 찍기 - 10](https://www.acmicpc.net/problem/2447) - [보기](src/baekjoon/단계별/재귀/별찍기_10)
+
+
+12. [집합과 맵](src/baekjoon/단계별/집합과맵)
+   - [숫자 카드](https://www.acmicpc.net/problem/10815) - [보기](src/baekjoon/단계별/집합과맵/숫자카드)
+   - [문자열 집합](https://www.acmicpc.net/problem/14425) - [보기](src/baekjoon/단계별/집합과맵/문자열집합)
+   - [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - [보기](src/baekjoon/단계별/집합과맵/나는야포켓몬마스터이다솜)
+   - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/집합과맵/숫자카드2)
+   - [듣보잡](https://www.acmicpc.net/problem/1764) - [보기](src/baekjoon/단계별/집합과맵/듣보잡)
+   - [대칭차집합](https://www.acmicpc.net/problem/1269) - [보기](src/baekjoon/단계별/집합과맵/대칭차집합)
+   - [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) - [보기](src/baekjoon/단계별/집합과맵/서로다른부분문자열의개수)
 
 ### 프로그래머스
 
