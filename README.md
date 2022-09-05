@@ -109,6 +109,12 @@ https://www.acmicpc.net/step
    - [별 찍기 - 10](https://www.acmicpc.net/problem/2447) - [보기](src/baekjoon/단계별/재귀/별찍기_10)
    - [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) - [보기](src/baekjoon/단계별/재귀/하노이탑이동순서)
 
+10. [브루트포스](src/baekjoon/단계별/브루트포스)
+   - [블랙잭](https://www.acmicpc.net/problem/2798) - [보기](src/baekjoon/단계별/브루트포스/블랙잭)
+   - [분해합](https://www.acmicpc.net/problem/2231) - [보기](src/baekjoon/단계별/브루트포스/분해합)
+   - [덩치](https://www.acmicpc.net/problem/7568) - [보기](src/baekjoon/단계별/브루트포스/덩치)
+   - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) - [보기](src/baekjoon/단계별/브루트포스/체스판다시칠하기)
+   - [영화감독 숌](https://www.acmicpc.net/problem/1436) - [보기](src/baekjoon/단계별/브루트포스/영화감독숌)
 
 12. [집합과 맵](src/baekjoon/단계별/집합과맵)
    - [숫자 카드](https://www.acmicpc.net/problem/10815) - [보기](src/baekjoon/단계별/집합과맵/숫자카드)
