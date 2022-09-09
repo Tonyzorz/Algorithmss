@@ -138,8 +138,16 @@ https://www.acmicpc.net/step
    - [대칭차집합](https://www.acmicpc.net/problem/1269) - [보기](src/baekjoon/단계별/집합과맵/대칭차집합)
    - [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) - [보기](src/baekjoon/단계별/집합과맵/서로다른부분문자열의개수)
 
-13. [정렬](src/baekjoon/단계별/기하1)
+13. [기하1](src/baekjoon/단계별/기하1)
    - [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) - [보기](src/baekjoon/단계별/기하1/직사각형에서탈출)
+   - [네 번째 점](https://www.acmicpc.net/problem/3009) - [보기](src/baekjoon/단계별/기하1/네번째점)
+   - [직각삼각형](https://www.acmicpc.net/problem/4153) - [보기](src/baekjoon/단계별/기하1/직각삼각형)
+   - [참외밭](https://www.acmicpc.net/problem/2477) - [보기](src/baekjoon/단계별/기하1/참외밭)
+   - [택시 기하학](https://www.acmicpc.net/problem/3053) - [보기](src/baekjoon/단계별/기하1/택시기하학)
+
+14. [정렬](src/baekjoon/단계별/정수론및조합론)
+   - [배수와 약수](https://www.acmicpc.net/problem/5086) - [보기](src/baekjoon/단계별/정수론및조합론/배수와약수)
+
 ### 프로그래머스
 
 ---
