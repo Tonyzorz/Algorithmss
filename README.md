@@ -145,8 +145,12 @@ https://www.acmicpc.net/step
    - [참외밭](https://www.acmicpc.net/problem/2477) - [보기](src/baekjoon/단계별/기하1/참외밭)
    - [택시 기하학](https://www.acmicpc.net/problem/3053) - [보기](src/baekjoon/단계별/기하1/택시기하학)
 
-14. [정렬](src/baekjoon/단계별/정수론및조합론)
+14. [정수론 및 조합론](src/baekjoon/단계별/정수론및조합론)
    - [배수와 약수](https://www.acmicpc.net/problem/5086) - [보기](src/baekjoon/단계별/정수론및조합론/배수와약수)
+   - [약수](https://www.acmicpc.net/problem/1037) - [보기](src/baekjoon/단계별/정수론및조합론/약수)
+   - [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) - [보기](src/baekjoon/단계별/정수론및조합론/최대공약수와최소공배수)
+   - [최소공배수](https://www.acmicpc.net/problem/1934) - [보기](src/baekjoon/단계별/정수론및조합론/최소공배수)
+   - [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
 
 ### 프로그래머스
 
