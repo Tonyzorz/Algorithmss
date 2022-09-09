@@ -116,12 +116,18 @@ https://www.acmicpc.net/step
    - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) - [보기](src/baekjoon/단계별/브루트포스/체스판다시칠하기)
    - [영화감독 숌](https://www.acmicpc.net/problem/1436) - [보기](src/baekjoon/단계별/브루트포스/영화감독숌)
 
-10. [정렬](src/baekjoon/단계별/정렬)
+11. [정렬](src/baekjoon/단계별/정렬)
    - [수 정렬하기](https://www.acmicpc.net/problem/2750) - [보기](src/baekjoon/단계별/정렬/수정렬하기)
    - [수 정렬하기2](https://www.acmicpc.net/problem/2751) - [보기](src/baekjoon/단계별/정렬/수정렬하기2)
    - [수 정렬하기3](https://www.acmicpc.net/problem/10989) - [보기](src/baekjoon/단계별/정렬/수정렬하기3)
    - [커트라인](https://www.acmicpc.net/problem/25305) - [보기](src/baekjoon/단계별/정렬/커트라인)
    - [통계학](https://www.acmicpc.net/problem/2108) - [보기](src/baekjoon/단계별/정렬/통계학)
+   - [소트인사이드](https://www.acmicpc.net/problem/1427) - [보기](src/baekjoon/단계별/정렬/소트인사이드)
+   - [좌표 정렬하기](https://www.acmicpc.net/problem/11650) - [보기](src/baekjoon/단계별/정렬/좌표정렬하기)
+   - [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) - [보기](src/baekjoon/단계별/정렬/좌표정렬하기2)
+   - [단어 정렬](https://www.acmicpc.net/problem/1181) - [보기](src/baekjoon/단계별/정렬/단어정렬)
+   - [나이순 정렬](https://www.acmicpc.net/problem/10814) - [보기](src/baekjoon/단계별/정렬/나이순정렬)
+   - [좌표 압축](https://www.acmicpc.net/problem/18870) - [보기](src/baekjoon/단계별/정렬/좌표압축)
 
 12. [집합과 맵](src/baekjoon/단계별/집합과맵)
    - [숫자 카드](https://www.acmicpc.net/problem/10815) - [보기](src/baekjoon/단계별/집합과맵/숫자카드)
@@ -132,6 +138,8 @@ https://www.acmicpc.net/step
    - [대칭차집합](https://www.acmicpc.net/problem/1269) - [보기](src/baekjoon/단계별/집합과맵/대칭차집합)
    - [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) - [보기](src/baekjoon/단계별/집합과맵/서로다른부분문자열의개수)
 
+13. [정렬](src/baekjoon/단계별/기하1)
+   - [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) - [보기](src/baekjoon/단계별/기하1/직사각형에서탈출)
 ### 프로그래머스
 
 ---
