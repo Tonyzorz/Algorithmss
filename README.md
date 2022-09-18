@@ -150,7 +150,11 @@ https://www.acmicpc.net/step
    - [약수](https://www.acmicpc.net/problem/1037) - [보기](src/baekjoon/단계별/정수론및조합론/약수)
    - [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) - [보기](src/baekjoon/단계별/정수론및조합론/최대공약수와최소공배수)
    - [최소공배수](https://www.acmicpc.net/problem/1934) - [보기](src/baekjoon/단계별/정수론및조합론/최소공배수)
-   - [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
+   xxxx- [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
+   - [링](https://www.acmicpc.net/problem/3036) - [보기](src/baekjoon/단계별/정수론및조합론/링)
+   - [이항 계수 1](https://www.acmicpc.net/problem/11050) - [보기](src/baekjoon/단계별/정수론및조합론/이항계수1)
+   - [이항 계수 2](https://www.acmicpc.net/problem/11051) - [보기](src/baekjoon/단계별/정수론및조합론/이항계수2)
+   - [다리 놓기](https://www.acmicpc.net/problem/1010) - [보기](src/baekjoon/단계별/정수론및조합론/다리놓기)
 
 ### 프로그래머스
 
