@@ -152,6 +152,15 @@ https://www.acmicpc.net/step
    - [최소공배수](https://www.acmicpc.net/problem/1934) - [보기](src/baekjoon/단계별/정수론및조합론/최소공배수)
    - [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
 
+15. [백트래킹](src/baekjoon/단계별/백트래킹)
+   - [N과 M (4)](https://www.acmicpc.net/problem/15652) - [보기](src/baekjoon/단계별/백트래킹/N과M_4)
+   - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [보기](src/baekjoon/단계별/백트래킹/연산자끼워넣기)
+
+16. [동적 계획법1](src/baekjoon/단계별/동적계획법1)
+   - [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - [보기](src/baekjoon/단계별/동적계획법1/알고리즘수업-피보나치수1)
+
+
+
 ### 프로그래머스
 
 ---
