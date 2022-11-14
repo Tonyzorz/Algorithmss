@@ -157,7 +157,9 @@ https://www.acmicpc.net/step
    - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [보기](src/baekjoon/단계별/백트래킹/연산자끼워넣기)
 
 16. [동적 계획법1](src/baekjoon/단계별/동적계획법1)
-   - [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - [보기](src/baekjoon/단계별/동적계획법1/알고리즘수업-피보나치수1)
+   - [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - [보기](src/baekjoon/단계별/동적계획법1/알고리즘수업_피보나치수1)
+   - [신나는 함수 실행](https://www.acmicpc.net/problem/9184) - [보기](src/baekjoon/단계별/동적계획법1/신나는함수실행)
+   - [01타일](https://www.acmicpc.net/problem/1904) - [보기](src/baekjoon/단계별/동적계획법1/_01타일)
 
 
 
