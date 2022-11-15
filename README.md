@@ -104,8 +104,10 @@ https://www.acmicpc.net/step
    - [베르트랑 공준](https://www.acmicpc.net/problem/4948) - [보기](src/baekjoon/단계별/기본수학2/베르트랑공준)
    - [골드바흐의 추측](https://www.acmicpc.net/problem/9020) - [보기](src/baekjoon/단계별/기본수학2/골드바흐의추측)
 
-9. [2차원 배열](src/baekjoon/단계별/2차원배열)
-   - [행렬 덧셈](https://www.acmicpc.net/problem/2738) - [보기](src/baekjoon/단계별/2차원배열/행렬덧셈)
+9. [2차원 배열](src/baekjoon/단계별/_2차원배열)
+   - [행렬 덧셈](https://www.acmicpc.net/problem/2738) - [보기](src/baekjoon/단계별/_2차원배열/행렬덧셈)
+   - [최대값](https://www.acmicpc.net/problem/2566) - [보기](src/baekjoon/단계별/_2차원배열/최대값)
+   - [색종이](https://www.acmicpc.net/problem/2563) - [보기](src/baekjoon/단계별/_2차원배열/색종이)
 
 10. [정렬](src/baekjoon/단계별/정렬)
     - [수 정렬하기](https://www.acmicpc.net/problem/2750) - [보기](src/baekjoon/단계별/정렬/수정렬하기)
