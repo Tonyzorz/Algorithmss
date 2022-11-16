@@ -111,6 +111,7 @@ https://www.acmicpc.net/step
 
 10. [정렬](src/baekjoon/단계별/정렬)
     - [수 정렬하기](https://www.acmicpc.net/problem/2750) - [보기](src/baekjoon/단계별/정렬/수정렬하기)
+    - [대표값2](https://www.acmicpc.net/problem/2587) - [보기](src/baekjoon/단계별/정렬/대표값2)
     - [수 정렬하기2](https://www.acmicpc.net/problem/2751) - [보기](src/baekjoon/단계별/정렬/수정렬하기2)
     - [수 정렬하기3](https://www.acmicpc.net/problem/10989) - [보기](src/baekjoon/단계별/정렬/수정렬하기3)
     - [커트라인](https://www.acmicpc.net/problem/25305) - [보기](src/baekjoon/단계별/정렬/커트라인)
@@ -168,6 +169,11 @@ https://www.acmicpc.net/step
     - [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - [보기](src/baekjoon/단계별/동적계획법1/알고리즘수업_피보나치수1)
     - [신나는 함수 실행](https://www.acmicpc.net/problem/9184) - [보기](src/baekjoon/단계별/동적계획법1/신나는함수실행)
     - [01타일](https://www.acmicpc.net/problem/1904) - [보기](src/baekjoon/단계별/동적계획법1/_01타일)
+    - [파도반 수열](https://www.acmicpc.net/problem/9461) - [보기](src/baekjoon/단계별/동적계획법1/파도반수열)
+    - [연속합](https://www.acmicpc.net/problem/1912) - [보기](src/baekjoon/단계별/동적계획법1/연속합)
+    - [RGB거리](https://www.acmicpc.net/problem/1149) - [보기](src/baekjoon/단계별/동적계획법1/RGB거리)
+    - [정수 삼각형](https://www.acmicpc.net/problem/1932) - [보기](src/baekjoon/단계별/동적계획법1/정수삼각형)
+    - [계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
 
 
 
