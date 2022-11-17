@@ -174,6 +174,8 @@ https://www.acmicpc.net/step
     - [RGB거리](https://www.acmicpc.net/problem/1149) - [보기](src/baekjoon/단계별/동적계획법1/RGB거리)
     - [정수 삼각형](https://www.acmicpc.net/problem/1932) - [보기](src/baekjoon/단계별/동적계획법1/정수삼각형)
     - [x계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
+    - [1로 만들기](https://www.acmicpc.net/problem/1463) - [보기](src/baekjoon/단계별/동적계획법1/_1로만들기)
+    - [쉬운 계단 수](https://www.acmicpc.net/problem/10844) - [보기](src/baekjoon/단계별/동적계획법1/쉬운계단수)
 
 18. [누적 합](src/baekjoon/단계별/누적합)
     - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
