@@ -173,9 +173,12 @@ https://www.acmicpc.net/step
     - [연속합](https://www.acmicpc.net/problem/1912) - [보기](src/baekjoon/단계별/동적계획법1/연속합)
     - [RGB거리](https://www.acmicpc.net/problem/1149) - [보기](src/baekjoon/단계별/동적계획법1/RGB거리)
     - [정수 삼각형](https://www.acmicpc.net/problem/1932) - [보기](src/baekjoon/단계별/동적계획법1/정수삼각형)
-    - [계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
+    - [x계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
 
-
+18. [누적 합](src/baekjoon/단계별/누적합)
+    - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
+    - [수열](https://www.acmicpc.net/problem/2559) - [보기](src/baekjoon/단계별/누적합/수열)
+    - [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
 
 ### 프로그래머스
 
