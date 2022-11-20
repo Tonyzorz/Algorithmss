@@ -162,6 +162,9 @@ https://www.acmicpc.net/step
     - [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
 
 16. [백트래킹](src/baekjoon/단계별/백트래킹)
+    - [N과 M(1)](https://www.acmicpc.net/problem/15649) - [보기](src/baekjoon/단계별/백트래킹/N과M_1)
+    - [N과 M(2)](https://www.acmicpc.net/problem/15650) - [보기](src/baekjoon/단계별/백트래킹/N과M_2)
+    - [N과 M(2)](https://www.acmicpc.net/problem/15651) - [보기](src/baekjoon/단계별/백트래킹/N과M_3)
     - [N과 M (4)](https://www.acmicpc.net/problem/15652) - [보기](src/baekjoon/단계별/백트래킹/N과M_4)
     - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [보기](src/baekjoon/단계별/백트래킹/연산자끼워넣기)
 
@@ -181,7 +184,7 @@ https://www.acmicpc.net/step
     - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
     - [수열](https://www.acmicpc.net/problem/2559) - [보기](src/baekjoon/단계별/누적합/수열)
     - [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
-
+    
 ### 프로그래머스
 
 ---
