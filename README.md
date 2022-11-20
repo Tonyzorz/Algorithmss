@@ -184,7 +184,15 @@ https://www.acmicpc.net/step
     - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
     - [수열](https://www.acmicpc.net/problem/2559) - [보기](src/baekjoon/단계별/누적합/수열)
     - [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
-    
+
+19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
+
+20. [스택](src/baekjoon/단계별/스택)
+    - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
+    - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
+    - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
+    - [균형잡힌 세상](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
+
 ### 프로그래머스
 
 ---
