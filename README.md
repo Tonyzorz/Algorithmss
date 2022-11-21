@@ -201,6 +201,7 @@ https://www.acmicpc.net/step
     - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
     - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
     - [균형잡힌 세상](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
+    - [스택 수열](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/스택수열)
 
 ### 프로그래머스
 
