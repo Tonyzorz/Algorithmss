@@ -176,14 +176,23 @@ https://www.acmicpc.net/step
     - [연속합](https://www.acmicpc.net/problem/1912) - [보기](src/baekjoon/단계별/동적계획법1/연속합)
     - [RGB거리](https://www.acmicpc.net/problem/1149) - [보기](src/baekjoon/단계별/동적계획법1/RGB거리)
     - [정수 삼각형](https://www.acmicpc.net/problem/1932) - [보기](src/baekjoon/단계별/동적계획법1/정수삼각형)
-    - [x계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
+    - [xxxxx 계단 오르기](https://www.acmicpc.net/problem/2579) - [보기](src/baekjoon/단계별/동적계획법1/계단오르기)
     - [1로 만들기](https://www.acmicpc.net/problem/1463) - [보기](src/baekjoon/단계별/동적계획법1/_1로만들기)
-    - [쉬운 계단 수](https://www.acmicpc.net/problem/10844) - [보기](src/baekjoon/단계별/동적계획법1/쉬운계단수)
+    - [xxxxx 쉬운 계단 수](https://www.acmicpc.net/problem/10844) - [보기](src/baekjoon/단계별/동적계획법1/쉬운계단수)
+    - [포도주 시식](https://www.acmicpc.net/problem/2156) - [보기](src/baekjoon/단계별/동적계획법1/포도주시식)
+    - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/2156) - [보기](src/baekjoon/단계별/동적계획법1/가장긴증가하는부분수열)
 
 18. [누적 합](src/baekjoon/단계별/누적합)
     - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
     - [수열](https://www.acmicpc.net/problem/2559) - [보기](src/baekjoon/단계별/누적합/수열)
-    - [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
+    - [xxxxx 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
+    - [나머지 합](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/나머지합)
+
+19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
+
+20. [스택](src/baekjoon/단계별/스택)
+
+21. [큐, 덱](src/baekjoon/단계별/큐덱)
 
 19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
 
