@@ -191,17 +191,18 @@ https://www.acmicpc.net/step
 19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
 
 20. [스택](src/baekjoon/단계별/스택)
-
-21. [큐, 덱](src/baekjoon/단계별/큐덱)
-
-19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
-
-20. [스택](src/baekjoon/단계별/스택)
     - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
     - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
     - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
     - [균형잡힌 세상](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
     - [스택 수열](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/스택수열)
+
+21. [큐, 덱](src/baekjoon/단계별/큐덱)
+    - [큐 2](https://www.acmicpc.net/problem/18258) - [보기](src/baekjoon/단계별/큐덱/큐2)
+    - [카드2](https://www.acmicpc.net/problem/2164) - [보기](src/baekjoon/단계별/큐덱/카드2)
+    - [Router](https://www.acmicpc.net/problem/15828) - [보기](src/baekjoon/단계별/큐덱/Router)
+    - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) - [보기](src/baekjoon/단계별/큐덱/요세푸스문제0)
+    - [프린터 큐](https://www.acmicpc.net/problem/1966) - [보기](src/baekjoon/단계별/큐덱/프린터큐)
 
 ### 프로그래머스
 
