@@ -203,6 +203,9 @@ https://www.acmicpc.net/step
     - [Router](https://www.acmicpc.net/problem/15828) - [보기](src/baekjoon/단계별/큐덱/Router)
     - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) - [보기](src/baekjoon/단계별/큐덱/요세푸스문제0)
     - [프린터 큐](https://www.acmicpc.net/problem/1966) - [보기](src/baekjoon/단계별/큐덱/프린터큐)
+    - [덱](https://www.acmicpc.net/problem/10866) - [보기](src/baekjoon/단계별/큐덱/덱)
+    - [회전하는 큐](https://www.acmicpc.net/problem/1021) - [보기](src/baekjoon/단계별/큐덱/회전하는큐)
+    - [AC](https://www.acmicpc.net/problem/5430) - [보기](src/baekjoon/단계별/큐덱/AC)
 
 ### 프로그래머스
 
