@@ -189,6 +189,10 @@ https://www.acmicpc.net/step
     - [나머지 합](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/나머지합)
 
 19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
+    - [동전 0](https://www.acmicpc.net/problem/11047) - [보기](src/baekjoon/단계별/그리디알고리즘/동전0)
+    - [회의실 배정](https://www.acmicpc.net/problem/1931) - [보기](src/baekjoon/단계별/그리디알고리즘/회의실배정)
+    - [ATM](https://www.acmicpc.net/problem/11399) - [보기](src/baekjoon/단계별/그리디알고리즘/ATM)
+    - [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - [보기](src/baekjoon/단계별/그리디알고리즘/잃어버린괄호)
 
 20. [스택](src/baekjoon/단계별/스택)
     - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
