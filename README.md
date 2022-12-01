@@ -199,8 +199,8 @@ https://www.acmicpc.net/step
     - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
     - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
     - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
-    - [균형잡힌 세상](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
-    - [스택 수열](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/스택수열)
+    - [균형잡힌 세상](https://www.acmicpc.net/problem/4949) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
+    - [스택 수열](https://www.acmicpc.net/problem/1874) - [보기](src/baekjoon/단계별/스택/스택수열)
 
 21. [큐, 덱](src/baekjoon/단계별/큐덱)
     - [큐 2](https://www.acmicpc.net/problem/18258) - [보기](src/baekjoon/단계별/큐덱/큐2)
@@ -209,8 +209,14 @@ https://www.acmicpc.net/step
     - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) - [보기](src/baekjoon/단계별/큐덱/요세푸스문제0)
     - [프린터 큐](https://www.acmicpc.net/problem/1966) - [보기](src/baekjoon/단계별/큐덱/프린터큐)
     - [덱](https://www.acmicpc.net/problem/10866) - [보기](src/baekjoon/단계별/큐덱/덱)
-    - [회전하는 큐](https://www.acmicpc.net/problem/10866) - [보기](src/baekjoon/단계별/큐덱/회전하는큐)
+    - [회전하는 큐](https://www.acmicpc.net/problem/1021) - [보기](src/baekjoon/단계별/큐덱/회전하는큐)
 
+22. [분할 정복](src/baekjoon/단계별/분할정복)
+    - [색종이 만들기](https://www.acmicpc.net/problem/2630) - [보기](src/baekjoon/단계별/분할정복/색종이만들기)
+    - [쿼드트리](https://www.acmicpc.net/problem/1992) - [보기](src/baekjoon/단계별/분할정복/쿼드트리)
+    - [종이의 개수](https://www.acmicpc.net/problem/1780) - [보기](src/baekjoon/단계별/분할정복/종이의개수)
+    - [곱셈](https://www.acmicpc.net/problem/1629) - [보기](src/baekjoon/단계별/분할정복/곱셈)
+    - 
 ### 프로그래머스
 
 ---
