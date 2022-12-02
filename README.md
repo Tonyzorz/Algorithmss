@@ -216,7 +216,13 @@ https://www.acmicpc.net/step
     - [쿼드트리](https://www.acmicpc.net/problem/1992) - [보기](src/baekjoon/단계별/분할정복/쿼드트리)
     - [종이의 개수](https://www.acmicpc.net/problem/1780) - [보기](src/baekjoon/단계별/분할정복/종이의개수)
     - [곱셈](https://www.acmicpc.net/problem/1629) - [보기](src/baekjoon/단계별/분할정복/곱셈)
-    - 
+    - [xxx이항 계수 3](https://www.acmicpc.net/problem/11401) - [보기](src/baekjoon/단계별/분할정복/이항계수3)
+
+23. [이분 탐색](src/baekjoon/단계별/이분탐색)
+    - [수 찾기](https://www.acmicpc.net/problem/1920) - [보기](src/baekjoon/단계별/이분탐색/수찾기)
+    - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/이분탐색/숫자카드2)
+    - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [보기](src/baekjoon/단계별/이분탐색/랜선자르기)
+    
 ### 프로그래머스
 
 ---
