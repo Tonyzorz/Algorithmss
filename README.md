@@ -222,6 +222,7 @@ https://www.acmicpc.net/step
     - [수 찾기](https://www.acmicpc.net/problem/1920) - [보기](src/baekjoon/단계별/이분탐색/수찾기)
     - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/이분탐색/숫자카드2)
     - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [보기](src/baekjoon/단계별/이분탐색/랜선자르기)
+    - [나무 자르기](https://www.acmicpc.net/problem/2805) - [보기](src/baekjoon/단계별/이분탐색/나무자르기)
     
 ### 프로그래머스
 
