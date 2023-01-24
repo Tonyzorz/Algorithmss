@@ -189,13 +189,18 @@ https://www.acmicpc.net/step
     - [나머지 합](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/나머지합)
 
 19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
+    - [동전 0](https://www.acmicpc.net/problem/11047) - [보기](src/baekjoon/단계별/그리디알고리즘/동전0)
+    - [회의실 배정](https://www.acmicpc.net/problem/1931) - [보기](src/baekjoon/단계별/그리디알고리즘/회의실배정)
+    - [ATM](https://www.acmicpc.net/problem/11399) - [보기](src/baekjoon/단계별/그리디알고리즘/ATM)
+    - [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - [보기](src/baekjoon/단계별/그리디알고리즘/잃어버린괄호)
+    - [주유소](https://www.acmicpc.net/problem/13305) - [보기](src/baekjoon/단계별/그리디알고리즘/주유소)
 
 20. [스택](src/baekjoon/단계별/스택)
     - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
     - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
     - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
-    - [균형잡힌 세상](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
-    - [스택 수열](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/스택수열)
+    - [균형잡힌 세상](https://www.acmicpc.net/problem/4949) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
+    - [스택 수열](https://www.acmicpc.net/problem/1874) - [보기](src/baekjoon/단계별/스택/스택수열)
 
 21. [큐, 덱](src/baekjoon/단계별/큐덱)
     - [큐 2](https://www.acmicpc.net/problem/18258) - [보기](src/baekjoon/단계별/큐덱/큐2)
@@ -205,8 +210,20 @@ https://www.acmicpc.net/step
     - [프린터 큐](https://www.acmicpc.net/problem/1966) - [보기](src/baekjoon/단계별/큐덱/프린터큐)
     - [덱](https://www.acmicpc.net/problem/10866) - [보기](src/baekjoon/단계별/큐덱/덱)
     - [회전하는 큐](https://www.acmicpc.net/problem/1021) - [보기](src/baekjoon/단계별/큐덱/회전하는큐)
-    - [AC](https://www.acmicpc.net/problem/5430) - [보기](src/baekjoon/단계별/큐덱/AC)
 
+22. [분할 정복](src/baekjoon/단계별/분할정복)
+    - [색종이 만들기](https://www.acmicpc.net/problem/2630) - [보기](src/baekjoon/단계별/분할정복/색종이만들기)
+    - [쿼드트리](https://www.acmicpc.net/problem/1992) - [보기](src/baekjoon/단계별/분할정복/쿼드트리)
+    - [종이의 개수](https://www.acmicpc.net/problem/1780) - [보기](src/baekjoon/단계별/분할정복/종이의개수)
+    - [곱셈](https://www.acmicpc.net/problem/1629) - [보기](src/baekjoon/단계별/분할정복/곱셈)
+    - [xxx이항 계수 3](https://www.acmicpc.net/problem/11401) - [보기](src/baekjoon/단계별/분할정복/이항계수3)
+
+23. [이분 탐색](src/baekjoon/단계별/이분탐색)
+    - [수 찾기](https://www.acmicpc.net/problem/1920) - [보기](src/baekjoon/단계별/이분탐색/수찾기)
+    - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/이분탐색/숫자카드2)
+    - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [보기](src/baekjoon/단계별/이분탐색/랜선자르기)
+    - [나무 자르기](https://www.acmicpc.net/problem/2805) - [보기](src/baekjoon/단계별/이분탐색/나무자르기)
+    
 ### 프로그래머스
 
 ---
