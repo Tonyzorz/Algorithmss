@@ -241,6 +241,10 @@ https://www.acmicpc.net/step
  - 두 수의 나눗셈 - [보기](src/programmers/level0/두수의나눗셈)
  - 숫자 비교하기 - [보기](src/programmers/level0/숫자비교하기)
  - 분수의 덧셈 - [보기](src/programmers/level0/분수의덧셈)
+ - 배열 두배 만들기 - [보기](src/programmers/level0/배열두배만들기)
+ - 나머지 구하기 - [보기](src/programmers/level0/나머지구하기)
+ - 중앙값 구하기 - [보기](src/programmers/level0/중앙값구하기)
+ - 최빈값 구하기 - [보기](src/programmers/level0/최빈값구하기)
 
 프로그래머스 [Level 1]
 
