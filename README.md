@@ -245,6 +245,12 @@ https://www.acmicpc.net/step
  - 나머지 구하기 - [보기](src/programmers/level0/나머지구하기)
  - 중앙값 구하기 - [보기](src/programmers/level0/중앙값구하기)
  - 최빈값 구하기 - [보기](src/programmers/level0/최빈값구하기)
+ - 짝수는 싫어요 - [보기](src/programmers/level0/짝수는싫어요)
+ - 피자 나눠 먹기 (1) - [보기](src/programmers/level0/피자나눠먹기_1)
+ - 피자 나눠 먹기 (2) - [보기](src/programmers/level0/피자나눠먹기_2)
+ - 피자 나눠 먹기 (3) - [보기](src/programmers/level0/피자나눠먹기_3)
+ - 배열의 평균값 - [보기](src/programmers/level0/배열의평균값)
+ - 옷가게 할인 받기 - [보기](src/programmers/level0/옷가게할인받기)
 
 프로그래머스 [Level 1]
 
