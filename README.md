@@ -251,6 +251,7 @@ https://www.acmicpc.net/step
  - 피자 나눠 먹기 (3) - [보기](src/programmers/level0/피자나눠먹기_3)
  - 배열의 평균값 - [보기](src/programmers/level0/배열의평균값)
  - 옷가게 할인 받기 - [보기](src/programmers/level0/옷가게할인받기)
+ - 아이스 아메리카노 - [보기](src/programmers/level0/아이스아메리카노)
 
 프로그래머스 [Level 1]
 
