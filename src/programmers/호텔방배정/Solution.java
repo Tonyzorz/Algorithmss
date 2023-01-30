@@ -1,6 +1,5 @@
 package programmers.호텔방배정;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.junit.Assert;
 import org.junit.Test;
 

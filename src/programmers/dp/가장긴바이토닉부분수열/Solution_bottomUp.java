@@ -2,7 +2,6 @@ package programmers.dp.가장긴바이토닉부분수열;
 
 import org.junit.Assert;
 import org.junit.Test;
-import sun.security.util.ArrayUtil;
 
 import java.util.Arrays;
 import java.util.Collections;
