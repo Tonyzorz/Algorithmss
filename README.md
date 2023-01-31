@@ -272,6 +272,9 @@ https://www.acmicpc.net/step
  - 구슬을 나누는 경우의 수 - [보기](src/programmers/level0/구슬을나누는경우의수)
  - 점의 위치 구하기 - [보기](src/programmers/level0/점의위치구하기)
  - 2차원으로 만들기 - [보기](src/programmers/level0/_2차원으로만들기)
+ - 공 던지기 - [보기](src/programmers/level0/공던지기)
+ - 배열 회전시키기 - [보기](src/programmers/level0/배열회전시키기)
+ - 주사위의 개수 - [보기](src/programmers/level0/주사위의개수)
 
 프로그래머스 [Level 1]
 
