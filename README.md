@@ -275,6 +275,11 @@ https://www.acmicpc.net/step
  - 공 던지기 - [보기](src/programmers/level0/공던지기)
  - 배열 회전시키기 - [보기](src/programmers/level0/배열회전시키기)
  - 주사위의 개수 - [보기](src/programmers/level0/주사위의개수)
+ - 합성수 찾기 - [보기](src/programmers/level0/합성수찾기)
+ - 최댓값 만들기 (1) - [보기](src/programmers/level0/최댓값만들기_1)
+ - 팩토리얼 - [보기](src/programmers/level0/팩토리얼)
+ - 모음 제거 - [보기](src/programmers/level0/모음제거)
+ - 문자열 정렬하기 (1) - [보기](src/programmers/level0/문자열정렬하기_1)
 
 프로그래머스 [Level 1]
 
