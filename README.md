@@ -280,6 +280,11 @@ https://www.acmicpc.net/step
  - 팩토리얼 - [보기](src/programmers/level0/팩토리얼)
  - 모음 제거 - [보기](src/programmers/level0/모음제거)
  - 문자열 정렬하기 (1) - [보기](src/programmers/level0/문자열정렬하기_1)
+ - 숨어있는 숫자의 덧셈 (1) - [보기](src/programmers/level0/숨어있는숫자의덧셈_1)
+ - 소인수분해 - [보기](src/programmers/level0/소인수분해)
+ - 컨트롤 제트 - [보기](src/programmers/level0/컨트롤제트)
+ - 배열 원소의 길이 - [보기](src/programmers/level0/배열원소의길이)
+ - 직사각형 넓이 구하기 - [보기](src/programmers/level0/직사각형넓이구하기)
 
 프로그래머스 [Level 1]
 
