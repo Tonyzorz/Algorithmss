@@ -285,6 +285,9 @@ https://www.acmicpc.net/step
  - 컨트롤 제트 - [보기](src/programmers/level0/컨트롤제트)
  - 배열 원소의 길이 - [보기](src/programmers/level0/배열원소의길이)
  - 직사각형 넓이 구하기 - [보기](src/programmers/level0/직사각형넓이구하기)
+ - 캐릭터의 좌표 - [보기](src/programmers/level0/캐릭터의좌표)
+ - 최댓값 만들기 (2) - [보기](src/programmers/level0/최댓값만들기_2)
+ - 다항식 더하기 - [보기](src/programmers/level0/다항식더하기)
 
 프로그래머스 [Level 1]
 
