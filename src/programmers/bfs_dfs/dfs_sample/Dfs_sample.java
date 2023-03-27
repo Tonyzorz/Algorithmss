@@ -23,7 +23,7 @@ public class Dfs_sample {
     public static void main(String[] args) {
         
         for (int i = 0; i < 9; i++) {
-            graph.add(new ArrayList<Integer>());
+            graph.add(new ArrayList<>());
         }
 
         // 노드 1에 연결된 노드 정보 저장 
