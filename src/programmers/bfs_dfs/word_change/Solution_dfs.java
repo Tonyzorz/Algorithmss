@@ -3,7 +3,7 @@ package programmers.bfs_dfs.word_change;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Solution {
+public class Solution_dfs {
 
     int answer = Integer.MAX_VALUE;
     public int solution(String begin, String target, String[] words) {
