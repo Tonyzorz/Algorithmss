@@ -229,6 +229,8 @@ https://www.acmicpc.net/step
     - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/이분탐색/숫자카드2)
     - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [보기](src/baekjoon/단계별/이분탐색/랜선자르기)
     - [나무 자르기](https://www.acmicpc.net/problem/2805) - [보기](src/baekjoon/단계별/이분탐색/나무자르기)
+    - [공유기 설치](https://www.acmicpc.net/problem/2110) - [보기](src/baekjoon/단계별/이분탐색/공유기설치)
+    - [K번째 수](https://www.acmicpc.net/problem/1300) - [보기](src/baekjoon/단계별/이분탐색/K번째수)
 
 25. [우선순위 큐](src/baekjoon/단계별/우선순위큐)
     - [최대 힙](https://www.acmicpc.net/problem/11279) - [보기](src/baekjoon/단계별/우선순위큐/최대힙)
