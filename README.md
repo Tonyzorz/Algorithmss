@@ -235,6 +235,12 @@ https://www.acmicpc.net/step
 25. [우선순위 큐](src/baekjoon/단계별/우선순위큐)
     - [최대 힙](https://www.acmicpc.net/problem/11279) - [보기](src/baekjoon/단계별/우선순위큐/최대힙)
 
+2x. [그래프와 순회](src/baekjoon/단계별/그래프와순회)
+    - [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_깊이우선탐색1)
+    - [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_깊이우선탐색2)
+    - [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_너비우선탐색1)
+    - [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24445) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_너비우선탐색2)
+    - 
 ### 프로그래머스
 
 ---
