@@ -244,6 +244,12 @@ https://www.acmicpc.net/step
     - [DFS 와 BFS](https://www.acmicpc.net/problem/1260) - [보기](src/baekjoon/단계별/그래프와순회/DFS와BFS)
     - [단지번호붙이기](https://www.acmicpc.net/problem/2667) - [보기](src/baekjoon/단계별/그래프와순회/단지번호붙이기)
     - [유기농 배추](https://www.acmicpc.net/problem/1012) - [보기](src/baekjoon/단계별/그래프와순회/유기농배추)
+    - [미로 탐색](https://www.acmicpc.net/problem/2178) - [보기](src/baekjoon/단계별/그래프와순회/미로탐색)
+    - [숨바꼭질](https://www.acmicpc.net/problem/1697) - [보기](src/baekjoon/단계별/그래프와순회/숨바꼭질)
+    - [나이트의 이동](https://www.acmicpc.net/problem/7562) - [보기](src/baekjoon/단계별/그래프와순회/나이트의이동)
+    - [토마토](https://www.acmicpc.net/problem/7576) - [보기](src/baekjoon/단계별/그래프와순회/토마토)
+    - [토마토](https://www.acmicpc.net/problem/7569) - [보기](src/baekjoon/단계별/그래프와순회/토마토2)
+    - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) - [보기](src/baekjoon/단계별/그래프와순회/뱀과사다리게임)
     - 
 ### 프로그래머스
 
