@@ -250,6 +250,7 @@ https://www.acmicpc.net/step
     - [토마토](https://www.acmicpc.net/problem/7576) - [보기](src/baekjoon/단계별/그래프와순회/토마토)
     - [토마토](https://www.acmicpc.net/problem/7569) - [보기](src/baekjoon/단계별/그래프와순회/토마토2)
     - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) - [보기](src/baekjoon/단계별/그래프와순회/뱀과사다리게임)
+    - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - [보기](src/baekjoon/단계별/그래프와순회/벽부수고이동하기)
     - 
 ### 프로그래머스
 

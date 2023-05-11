@@ -1,7 +1,6 @@
 package baekjoon.단계별.그리디알고리즘.주유소;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -10,38 +9,30 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        int size = Integer.parseInt(br.readLine());
-        ArrayList<Integer> distance = new ArrayList<>();
         StringTokenizer st = new StringTokenizer(br.readLine());
-        while (st.hasMoreTokens()) {
-            int num = Integer.parseInt(st.nextToken());
-            distance.add(num);
-        }
-
-        ArrayList<Integer> price = new ArrayList<>();
+        int cities = Integer.parseInt(st.nextToken());
+        
+        int[] distance = new int[cities - 1];
         st = new StringTokenizer(br.readLine());
-        int prevPrice = Integer.parseInt(st.nextToken());
-        price.add(prevPrice);
+        for (int i = 0; i < distance.length; i++) {
+            distance[i] = Integer.parseInt(st.nextToken());
+        }
+
+        int[] price = new int[cities];
+        st = new StringTokenizer(br.readLine());
+        for (int i = 0; i < price.length; i++) {
+            price[i] = Integer.parseInt(st.nextToken());
+        }
         
-        while (st.hasMoreTokens()) {
-            int currentPrice = Integer.parseInt(st.nextToken());
+        long total = 0;
+        long minCost = price[0];
 
-            if (prevPrice < currentPrice) {
-                price.add(prevPrice);
-                continue;
-            }
-
-            prevPrice = currentPrice;
-            price.add(currentPrice); 
+        for (int i = 0; i < distance.length; i++) {
+            minCost = Math.min(minCost, price[i]);
             
+            total += (minCost * distance[i]);
         }
-
-        int calculate = 0;
-        for (int i = 0; i < distance.size(); i++) {
-            calculate += distance.get(i) * price.get(i);
-        }
-        
-        bw.write(calculate + "");
+        bw.write(total + "");
         br.close();
         bw.close();
     }
