@@ -3,10 +3,11 @@ class Solution {
         int answer = 0;
 
         for (int num = i; num <= j; num++) {
-            char[] numArray = String.valueOf(num).toCharArray();
 
-            for (int idx = 0; idx < numArray.length; idx++) {
-                if ( numArray[idx] == String.valueOf(k).charAt(0) ) {
+            String[] numbers = String.valueOf(num).split("");
+
+            for (int idx = 0; idx < numbers.length; idx++) {
+                if ( numbers[idx].equals(String.valueOf(k)) ) {
                     answer++;
                 }
             }
