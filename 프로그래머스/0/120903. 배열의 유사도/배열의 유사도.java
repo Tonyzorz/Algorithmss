@@ -3,24 +3,13 @@ import java.util.*;
 class Solution {
     public int solution(String[] s1, String[] s2) {
         int answer = 0;
-        HashSet<String> set1 = new HashSet<>();
-        HashSet<String> set2 = new HashSet<>();
-        
-        for (String s : s1) {
-            set1.add(s);
-        }
-        for (String s : s2) {
-            set2.add(s);
+
+        for (int i = 0; i < s1.length; i++) {
+            for (int j = 0; j < s2.length; j++) {
+                if (s1[i].equals(s2[j])) answer++;
+            }
         }
 
-        for (String s : set1) {
-            if ( set2.contains(s) ) answer++;
-        }
-
-        for (String s : set2) {
-            if ( set1.contains(s) ) answer++;
-        }
-
-        return answer / 2;
+        return answer;
     }
 }
