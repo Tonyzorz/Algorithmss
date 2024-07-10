@@ -3,7 +3,7 @@ class Solution {
         StringBuffer sb = new StringBuffer();
 
         char[] charArray = my_string.toCharArray();
-        for (int i = 0; i < Math.ceil((e - s) / (float) 2); i++) {
+        for (int i = 0; i < (e - s + 1) / 2; i++) {
             char temp = charArray[s + i];
             charArray[s + i] = charArray[e - i];
             charArray[e - i] = temp;
