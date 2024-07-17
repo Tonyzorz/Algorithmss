@@ -3,34 +3,20 @@ class Solution {
         int answer = 0;
 
         if (a == b && a == c) {
-            
+
             answer = (int) ((a + b + c)
                             * (Math.pow(a, 2) + Math.pow(b, 2) + Math.pow(c, 2))
                             * (Math.pow(a, 3) + Math.pow(b, 3) + Math.pow(c, 3)));
-            
+
         } else if (a == b || b == c || a == c) {
-            
-            int same = 0;
-            int diff = 0;
-            
-            if (a == b) {
-                same = a;
-                diff = c;
-            } else if (a == c) {
-                same = a;
-                diff = b;
-            } else {
-                same = b;
-                diff = a;
-            }
             
             answer = (int) ((a + b + c)
                     * (Math.pow(a, 2) + Math.pow(b, 2) + Math.pow(c, 2)));
 
         } else {
-            
+
             answer = a + b + c;
-            
+
         }
 
         return answer;
