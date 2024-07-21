@@ -1,57 +1,38 @@
 package programmers.level1._2016년;
 
+import org.junit.Test;
+
+import java.util.HashMap;
+
 public class Solution {
 
-
     public String solution(int a, int b) {
-        int[] numOfDays = {31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
-        int num = 0;
+        int[] months = {0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-        for(int i = 0; i < a; i++) {
-            num += numOfDays[i];
+        HashMap<Integer, String> map = new HashMap<>();
+        map.put(1, "FRI");
+        map.put(2, "SAT");
+        map.put(3, "SUN");
+        map.put(4, "MON");
+        map.put(5, "TUE");
+        map.put(6, "WED");
+        map.put(0, "THU");
+
+        for (int i = 1; i < a; i++) {
+            b += months[i];
         }
 
-        int remainder = numOfDays[a - 1] - b;
-        num -= remainder;
+        b %= 7;
 
-        return weekDay((num)% 7);
+        return map.get(b);
     }
 
-    public String weekDay(int n) {
-        String day = "";
-        switch (n) {
-            case 1:
-                day = "FRI";
-                break;
-            case 2:
-                day = "SAT";
-                break;
-            case 3:
-                day = "SUN";
-                break;
-            case 4:
-                day = "MON";
-                break;
-            case 5:
-                day = "TUE";
-                break;
-            case 6:
-                day = "WED";
-                break;
-            case 0:
-                day = "THU";
-                break;
-            default:
-                day = "FRI";
-        }
-        return day;
-    }
+    @Test
+    public void answer() {
+        //given
 
+        //when
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int a = 5;
-        int b = 24;
-        System.out.println(solution.solution(a, b));
+        //then
     }
 }

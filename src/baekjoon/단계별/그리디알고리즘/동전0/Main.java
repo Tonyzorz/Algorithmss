@@ -10,23 +10,9 @@ public class Main {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int size = Integer.parseInt(st.nextToken());
-        int amount = Integer.parseInt(st.nextToken());
-
-        int[] coins = new int[size];
-        for (int i = 0; i < size; i++) {
-            coins[i] = Integer.parseInt(br.readLine());
-        }
-        
-        int count = 0;
-        for (int i = size - 1; i >= 0; i--) {
-            if ((amount / coins[i]) > 0) {
-                count += (amount / coins[i]);
-                amount %= coins[i];
-            }
-        }
-        
-        bw.write(count + "");
+        /*
+        bw.write();
+         */
         br.close();
         bw.close();
     }

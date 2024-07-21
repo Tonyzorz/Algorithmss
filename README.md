@@ -134,11 +134,11 @@ https://www.acmicpc.net/step
 12. [브루트포스](src/baekjoon/단계별/브루트포스)
     - [블랙잭](https://www.acmicpc.net/problem/2798) - [보기](src/baekjoon/단계별/브루트포스/블랙잭)
     - [분해합](https://www.acmicpc.net/problem/2231) - [보기](src/baekjoon/단계별/브루트포스/분해합)
-    - [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) - [보기](src/baekjoon/단계별/브루트포스/수학은비대면강의입니다)
     - [덩치](https://www.acmicpc.net/problem/7568) - [보기](src/baekjoon/단계별/브루트포스/덩치)
     - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) - [보기](src/baekjoon/단계별/브루트포스/체스판다시칠하기)
     - [영화감독 숌](https://www.acmicpc.net/problem/1436) - [보기](src/baekjoon/단계별/브루트포스/영화감독숌)
-    
+
+
 13. [집합과 맵](src/baekjoon/단계별/집합과맵)
     - [숫자 카드](https://www.acmicpc.net/problem/10815) - [보기](src/baekjoon/단계별/집합과맵/숫자카드)
     - [문자열 집합](https://www.acmicpc.net/problem/14425) - [보기](src/baekjoon/단계별/집합과맵/문자열집합)
@@ -162,19 +162,14 @@ https://www.acmicpc.net/step
     - [최소공배수](https://www.acmicpc.net/problem/1934) - [보기](src/baekjoon/단계별/정수론및조합론/최소공배수)
     - [검문](https://www.acmicpc.net/problem/2981) - [보기](src/baekjoon/단계별/정수론및조합론/검문)
 
-16. [심화 2](src/baekjoon/단계별/심화2)
-    - [인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192) - [보기](src/baekjoon/단계별/심화2/인사성밝은곰곰이)    
-    - [붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) - [보기](src/baekjoon/단계별/심화2/붙임성좋은총총이)    
-    - [영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) - [보기](src/baekjoon/단계별/심화2/영단어암기는괴로워)    
-
-17. [백트래킹](src/baekjoon/단계별/백트래킹)
+16. [백트래킹](src/baekjoon/단계별/백트래킹)
     - [N과 M(1)](https://www.acmicpc.net/problem/15649) - [보기](src/baekjoon/단계별/백트래킹/N과M_1)
     - [N과 M(2)](https://www.acmicpc.net/problem/15650) - [보기](src/baekjoon/단계별/백트래킹/N과M_2)
     - [N과 M(2)](https://www.acmicpc.net/problem/15651) - [보기](src/baekjoon/단계별/백트래킹/N과M_3)
     - [N과 M (4)](https://www.acmicpc.net/problem/15652) - [보기](src/baekjoon/단계별/백트래킹/N과M_4)
     - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [보기](src/baekjoon/단계별/백트래킹/연산자끼워넣기)
 
-18. [동적 계획법1](src/baekjoon/단계별/동적계획법1)
+17. [동적 계획법1](src/baekjoon/단계별/동적계획법1)
     - [알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416) - [보기](src/baekjoon/단계별/동적계획법1/알고리즘수업_피보나치수1)
     - [신나는 함수 실행](https://www.acmicpc.net/problem/9184) - [보기](src/baekjoon/단계별/동적계획법1/신나는함수실행)
     - [01타일](https://www.acmicpc.net/problem/1904) - [보기](src/baekjoon/단계별/동적계획법1/_01타일)
@@ -188,27 +183,27 @@ https://www.acmicpc.net/step
     - [포도주 시식](https://www.acmicpc.net/problem/2156) - [보기](src/baekjoon/단계별/동적계획법1/포도주시식)
     - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/2156) - [보기](src/baekjoon/단계별/동적계획법1/가장긴증가하는부분수열)
 
-19. [누적 합](src/baekjoon/단계별/누적합)
+18. [누적 합](src/baekjoon/단계별/누적합)
     - [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [보기](src/baekjoon/단계별/누적합/구간합구하기4)
     - [수열](https://www.acmicpc.net/problem/2559) - [보기](src/baekjoon/단계별/누적합/수열)
     - [xxxxx 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/인간-컴퓨터상호작용)
     - [나머지 합](https://www.acmicpc.net/problem/16139) - [보기](src/baekjoon/단계별/누적합/나머지합)
 
-20. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
+19. [그리디 알고리즘](src/baekjoon/단계별/그리디알고리즘)
     - [동전 0](https://www.acmicpc.net/problem/11047) - [보기](src/baekjoon/단계별/그리디알고리즘/동전0)
     - [회의실 배정](https://www.acmicpc.net/problem/1931) - [보기](src/baekjoon/단계별/그리디알고리즘/회의실배정)
     - [ATM](https://www.acmicpc.net/problem/11399) - [보기](src/baekjoon/단계별/그리디알고리즘/ATM)
     - [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - [보기](src/baekjoon/단계별/그리디알고리즘/잃어버린괄호)
     - [주유소](https://www.acmicpc.net/problem/13305) - [보기](src/baekjoon/단계별/그리디알고리즘/주유소)
 
-21. [스택](src/baekjoon/단계별/스택)
+20. [스택](src/baekjoon/단계별/스택)
     - [스택](https://www.acmicpc.net/problem/10828) - [보기](src/baekjoon/단계별/스택/스택)
     - [제로](https://www.acmicpc.net/problem/10773) - [보기](src/baekjoon/단계별/스택/제로)
     - [괄호](https://www.acmicpc.net/problem/9012) - [보기](src/baekjoon/단계별/스택/괄호)
     - [균형잡힌 세상](https://www.acmicpc.net/problem/4949) - [보기](src/baekjoon/단계별/스택/균형잡힌세상)
     - [스택 수열](https://www.acmicpc.net/problem/1874) - [보기](src/baekjoon/단계별/스택/스택수열)
 
-22. [큐, 덱](src/baekjoon/단계별/큐덱)
+21. [큐, 덱](src/baekjoon/단계별/큐덱)
     - [큐 2](https://www.acmicpc.net/problem/18258) - [보기](src/baekjoon/단계별/큐덱/큐2)
     - [카드2](https://www.acmicpc.net/problem/2164) - [보기](src/baekjoon/단계별/큐덱/카드2)
     - [Router](https://www.acmicpc.net/problem/15828) - [보기](src/baekjoon/단계별/큐덱/Router)
@@ -217,41 +212,22 @@ https://www.acmicpc.net/step
     - [덱](https://www.acmicpc.net/problem/10866) - [보기](src/baekjoon/단계별/큐덱/덱)
     - [회전하는 큐](https://www.acmicpc.net/problem/1021) - [보기](src/baekjoon/단계별/큐덱/회전하는큐)
 
-23. [분할 정복](src/baekjoon/단계별/분할정복)
+22. [분할 정복](src/baekjoon/단계별/분할정복)
     - [색종이 만들기](https://www.acmicpc.net/problem/2630) - [보기](src/baekjoon/단계별/분할정복/색종이만들기)
     - [쿼드트리](https://www.acmicpc.net/problem/1992) - [보기](src/baekjoon/단계별/분할정복/쿼드트리)
     - [종이의 개수](https://www.acmicpc.net/problem/1780) - [보기](src/baekjoon/단계별/분할정복/종이의개수)
     - [곱셈](https://www.acmicpc.net/problem/1629) - [보기](src/baekjoon/단계별/분할정복/곱셈)
     - [xxx이항 계수 3](https://www.acmicpc.net/problem/11401) - [보기](src/baekjoon/단계별/분할정복/이항계수3)
 
-24. [이분 탐색](src/baekjoon/단계별/이분탐색)
+23. [이분 탐색](src/baekjoon/단계별/이분탐색)
     - [수 찾기](https://www.acmicpc.net/problem/1920) - [보기](src/baekjoon/단계별/이분탐색/수찾기)
     - [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [보기](src/baekjoon/단계별/이분탐색/숫자카드2)
     - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [보기](src/baekjoon/단계별/이분탐색/랜선자르기)
     - [나무 자르기](https://www.acmicpc.net/problem/2805) - [보기](src/baekjoon/단계별/이분탐색/나무자르기)
-    - [공유기 설치](https://www.acmicpc.net/problem/2110) - [보기](src/baekjoon/단계별/이분탐색/공유기설치)
-    - [K번째 수](https://www.acmicpc.net/problem/1300) - [보기](src/baekjoon/단계별/이분탐색/K번째수)
 
-25. [우선순위 큐](src/baekjoon/단계별/우선순위큐)
+24. [우선순위 큐](src/baekjoon/단계별/우선순위큐)
     - [최대 힙](https://www.acmicpc.net/problem/11279) - [보기](src/baekjoon/단계별/우선순위큐/최대힙)
 
-2x. [그래프와 순회](src/baekjoon/단계별/그래프와순회)
-    - [알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_깊이우선탐색1)
-    - [알고리즘 수업 - 깊이 우선 탐색 2](https://www.acmicpc.net/problem/24480) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_깊이우선탐색2)
-    - [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_너비우선탐색1)
-    - [알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24445) - [보기](src/baekjoon/단계별/그래프와순회/알고리즘수업_너비우선탐색2)
-    - [바이러스](https://www.acmicpc.net/problem/2606) - [보기](src/baekjoon/단계별/그래프와순회/바이러스)
-    - [DFS 와 BFS](https://www.acmicpc.net/problem/1260) - [보기](src/baekjoon/단계별/그래프와순회/DFS와BFS)
-    - [단지번호붙이기](https://www.acmicpc.net/problem/2667) - [보기](src/baekjoon/단계별/그래프와순회/단지번호붙이기)
-    - [유기농 배추](https://www.acmicpc.net/problem/1012) - [보기](src/baekjoon/단계별/그래프와순회/유기농배추)
-    - [미로 탐색](https://www.acmicpc.net/problem/2178) - [보기](src/baekjoon/단계별/그래프와순회/미로탐색)
-    - [숨바꼭질](https://www.acmicpc.net/problem/1697) - [보기](src/baekjoon/단계별/그래프와순회/숨바꼭질)
-    - [나이트의 이동](https://www.acmicpc.net/problem/7562) - [보기](src/baekjoon/단계별/그래프와순회/나이트의이동)
-    - [토마토](https://www.acmicpc.net/problem/7576) - [보기](src/baekjoon/단계별/그래프와순회/토마토)
-    - [토마토](https://www.acmicpc.net/problem/7569) - [보기](src/baekjoon/단계별/그래프와순회/토마토2)
-    - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) - [보기](src/baekjoon/단계별/그래프와순회/뱀과사다리게임)
-    - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - [보기](src/baekjoon/단계별/그래프와순회/벽부수고이동하기)
-    - 
 ### 프로그래머스
 
 ---
