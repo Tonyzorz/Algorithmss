@@ -18,6 +18,7 @@ class Solution {
             list.add(num);
         }
         
+         
         return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }
