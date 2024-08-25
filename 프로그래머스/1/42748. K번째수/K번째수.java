@@ -11,7 +11,6 @@ class Solution {
 
             int[] organized = cutAndSort(array, start, end);
             answer[i] = organized[index - 1];
-
         }
 
         return answer;
