@@ -17,7 +17,6 @@ class Solution {
     }
 
     public int[] cutAndSort(int[] array, int start, int end) {
-
         int[] cutted = new int[end - start + 1];
 
         int index = 0;
