@@ -5,6 +5,7 @@ class Solution {
 
         HashMap<String, Integer> hashMap = new HashMap<>();
 
+        
         // 참가자 기록하기
         for (String name : participant) {
             if (hashMap.containsKey(name)) {
