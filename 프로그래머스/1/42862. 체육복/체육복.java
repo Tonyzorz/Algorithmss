@@ -6,7 +6,6 @@ class Solution {
         lendUniforms(uniformRecords);
         
         int answer = countAttendance(uniformRecords);
-
         return answer;
     }
     
