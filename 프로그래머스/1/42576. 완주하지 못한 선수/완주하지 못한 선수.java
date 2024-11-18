@@ -1,39 +1,26 @@
-import java.util.*;
+import java.util.HashMap;
+
 class Solution {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
 
-        HashMap<String, Integer> hashMap = new HashMap<>();
-
-        
-        // 참가자 기록하기
-        for (String name : participant) {
-            if (hashMap.containsKey(name)) {
-                Integer integer = hashMap.get(name) + 1;
-                hashMap.put(name, integer);
-            } else {
-                hashMap.put(name, 1);
-            }
-        }
-
-        // 참가자 제거하기
+        HashMap<String, Integer> map = new HashMap<>();
         for (String name : completion) {
-            if (hashMap.containsKey(name)) {
-                Integer integer = hashMap.get(name) - 1;
+            int count = map.getOrDefault(name, 0) + 1;
+            map.put(name, count);
+        }
 
-                if (integer < 1) {
-                    hashMap.remove(name);
-                } else {
-                    hashMap.put(name, integer);
-                }
+        for (String name : participant) {
+            int count = map.getOrDefault(name, 0) - 1;
+            map.put(name, count);
+
+            if (count < 0) {
+                answer = name;
+                break;
             }
+
         }
 
-        // 미완주 참가자 출력하기
-        for (String name : hashMap.keySet()) {
-            answer += name + " ";
-        }
-
-        return answer.trim();
+        return answer;
     }
 }
